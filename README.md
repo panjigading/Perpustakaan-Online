@@ -1,5 +1,7 @@
 # Perpustakaan Online
 
+Pembuat: Panji Sunaring Gading
+
 ## Setup
 
 1. Copy file `.env.example` ke `.env`.
